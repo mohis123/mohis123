@@ -130,26 +130,20 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast ☁
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-
 <a href="https://github.com/mohis123">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mohith-kumar-netrambaku-852458303/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://my-portfolio12-gules.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 </p>
 
 ---
