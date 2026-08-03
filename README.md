@@ -1,108 +1,132 @@
 <h1 align="center">Hi 👋, I'm Mohith Kumar</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Full Stack Developer | Cloud Enthusiast ☁️
+Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast ☁️
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;Spring+Boot+Developer;React+Developer;DSA+Problem+Solver;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Spring+Boot+Developer;React+Developer;AWS+Learner;DSA+Problem+Solver;Always+Learning+🚀"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **KL University**
+- 🎓 B.Tech Computer Science Student at **KL University**
 - 💻 Passionate about **Software Development & Cloud Computing**
 - 🌱 Currently learning **AWS • Docker • Kubernetes**
-- ⚡ Strong in **C++ • Java • Python**
+- ⚡ Skilled in **C++ • Java • Python**
 - 🚀 Building scalable Full Stack Applications
-- 📚 Solving Data Structures & Algorithms regularly
-- 🎯 Goal: Software Development Engineer (SDE)
+- 📚 Practicing Data Structures & Algorithms
+- 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
 </p>
 
-### Frameworks & Libraries
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,django,bootstrap,tailwind" />
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
 </p>
 
-### Cloud & DevOps
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
+## ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
 </p>
 
-### Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 </p>
 
-### Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm,figma" />
+## 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=npm" width="55"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-React • Vite • Responsive UI
+**Tech Stack:** React • Vite • Responsive UI
 
 🔗 https://my-portfolio12-gules.vercel.app/
 
 ---
 
-## 📚 Learning Management System
+### 📚 Learning Management System
 
-Spring Boot • React • JWT • MySQL
-
----
-
-## 🍽️ Smart Recipe Recommendation System
-
-Django • MySQL • Machine Learning Concepts
+**Tech Stack:** Spring Boot • React • JWT • MySQL
 
 ---
 
-# 📈 GitHub Statistics
+### 🍽️ Smart Recipe Recommendation System
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohis123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=mohis123&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohis123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohis123&theme=tokyonight&row=1&column=6"/>
-
-</p>
+**Tech Stack:** Django • MySQL • Machine Learning Concepts
 
 ---
 
@@ -111,12 +135,16 @@ Django • MySQL • Machine Learning Concepts
 <p align="center">
 
 <a href="https://github.com/mohis123">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/mohith-kumar-netrambaku-852458303/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://my-portfolio12-gules.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
@@ -129,29 +157,21 @@ Django • MySQL • Machine Learning Concepts
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohis123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=mohis123&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 # 💡 Quote
 
-<h3 align="center">
+<p align="center">
 
-✨ Code • Learn • Build • Repeat ✨
+## ✨ Code • Learn • Build • Repeat ✨
 
-</h3>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Note:** This image will work only after you set up the GitHub Action to generate it.
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/mohis123/mohis123/output/github-contribution-grid-snake.svg"/>
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
