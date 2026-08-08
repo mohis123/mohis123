@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohith Kumar</h1>
 
 <h3 align="center">
-Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast ☁️
+Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast 
 </h3>
 
 <p align="center">
