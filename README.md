@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohith Kumar</h1>
+# 👋 Hi, I'm Mohith Kumar
 
-<h3 align="center">
-Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast 
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Spring+Boot+Developer;React+Developer;AWS+Learner;DSA+Problem+Solver;Always+Learning+🚀"/>
-</p>
+### 🎓 Computer Science Undergraduate • 💻 Full Stack Developer • ☁️ Cloud Enthusiast
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student at **KL University**
 - 💻 Passionate about **Software Development & Cloud Computing**
 - 🌱 Currently learning **AWS • Docker • Kubernetes**
 - ⚡ Skilled in **C++ • Java • Python**
-- 🚀 Building scalable Full Stack Applications
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Aspiring Software Development Engineer (SDE)
+- 🚀 Building scalable **Full Stack Applications**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🎯 Aspiring **Software Development Engineer (SDE)**
 
 ---
 
@@ -26,84 +20,32 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast
 
 ## 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" alt="Languages" />
 </p>
-
----
 
 ## ⚙️ Frameworks & Libraries
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,spring,django,nodejs" alt="Frameworks and Libraries" />
 </p>
-
----
 
 ## ☁️ Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" alt="Cloud and DevOps" />
 </p>
-
----
 
 ## 🗄️ Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
 </p>
-
----
 
 ## 🛠️ Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=npm" width="55"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,linux" alt="Tools" />
 </p>
 
 ---
@@ -114,7 +56,7 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast
 
 **Tech Stack:** React • Vite • Responsive UI
 
-🔗 https://my-portfolio12-gules.vercel.app/
+🔗 [View Portfolio](https://my-portfolio12-gules.vercel.app/)
 
 ---
 
@@ -130,20 +72,10 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+# 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/mohis123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohith-kumar-netrambaku-852458303/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://my-portfolio12-gules.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohis123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -151,21 +83,15 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohis123&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=mohis123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 # 💡 Quote
 
-<p align="center">
-
 ## ✨ Code • Learn • Build • Repeat ✨
-
-</p>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+### ☁️ Keep Learning • Keep Building • Keep Growing 🚀
