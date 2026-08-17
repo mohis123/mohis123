@@ -5,8 +5,7 @@ Computer Science Undergraduate • Full Stack Developer • Cloud Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Spring+Boot+Developer;React+Developer;AWS+Learner;DSA+Problem+Solver;Always+Learning+🚀"/>
-</p>
+
 
 ---
 
